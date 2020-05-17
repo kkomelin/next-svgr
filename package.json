@@ -7,7 +7,7 @@
   "author": "Kevin Vicrey <kevin.vicrey@nexu.org>",
   "license": "MIT",
   "dependencies": {
-    "@svgr/webpack": "^4.3.0"
+    "@svgr/webpack": "^5.4.0"
   },
   "devDependencies": {}
 }
